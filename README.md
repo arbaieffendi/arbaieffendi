@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🧑‍💻 I’m looking for volunteers (Product, Dev, tester) from IKA POLBAN/Poltek ITB alumni to strengthen the core of its tech.
-  We want to facilitate and support IKA POLBAN/Poltek ITB program to give impact and benefit to alumnus, civitas academy and society
-
+- 🧑‍💻 I'm Arba, Software Engineer
+- 🔭 I’m currently work using C#, JS/TS and Azure Services
+- 🌱 I’m currently learning AI stuff
+- 📫 How to reach me: http://linkedin.com/in/arbaieffendi
+  
 <!--
 **arbaieffendi/arbaieffendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
