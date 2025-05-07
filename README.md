@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🧑‍💻 I'm Arba, Software Engineer
-- 🔭 I’m currently work using C#, JS/TS and Azure Services
+- 🔭 Mostly work using C#, JS/TS and Azure Services
 - 🌱 I’m currently learning AI stuff
 - 📫 How to reach me: http://linkedin.com/in/arbaieffendi
   
